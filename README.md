@@ -1,0 +1,2 @@
+# SequelizeLearning
+ORM definition
